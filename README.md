@@ -1,3 +1,5 @@
+[Ödev 1 GitHub'ta Repo İşlemleri](https://app.patika.dev/moduller/git/odev1)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
